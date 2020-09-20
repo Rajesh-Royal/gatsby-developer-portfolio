@@ -1,9 +1,9 @@
 {
-  "name": "portfolio",
+  "name": "rajesh-portfolio",
   "private": true,
   "description": "A simple portfolio for developers",
-  "version": "0.1.2",
-  "author": "Smakosh <ismai23l@hotmail.com>",
+  "version": "0.1.1",
+  "author": "Rajesh Royal <rajeshroyal896.com>",
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^6.2.0",
@@ -64,9 +64,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:smakosh/gatsby-portfolio-dev.git"
+    "url": "git@https://github.com/Rajesh-Royal/gatsby-developer-portfolio"
   },
   "bugs": {
-    "url": "https://github.com/smakosh/gatsby-portfolio-dev/issues"
+    "url": "https://github.com/Rajesh-Royal/gatsby-developer-portfolio/issues"
   }
 }
