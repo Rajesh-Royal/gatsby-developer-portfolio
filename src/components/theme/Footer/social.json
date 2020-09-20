@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "facebook",
+    "link": "https://facebook.com/rajesh.royal.92372",
+    "icon": "/icons/facebook.svg"
+  },
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/Rajesh-Royal",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "StackOverflow",
+    "link": "https://stackoverflow.com/users/8138202/rajesh-royal",
+    "icon": "/icons/stackoverflow.svg"
+  },
+  {
+    "id": 3,
+    "name": "Twitter",
+    "link": "https://twitter.com/Raj_896",
+    "icon": "/icons/twitter.svg"
+  }
+]
