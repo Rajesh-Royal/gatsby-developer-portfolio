@@ -42,6 +42,7 @@
   "scripts": {
     "build": "gatsby build",
     "start": "gatsby develop -o",
+    "serve": "gatsby serve",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "reset": "rm -rf .cache/ public/",
